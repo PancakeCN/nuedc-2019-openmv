@@ -7,8 +7,8 @@ sensor.reset()
 sensor.set_pixformat(sensor.RGB565)
 sensor.set_framesize(sensor.QQVGA) # 80x60 (4,800 pixels)
 sensor.skip_frames(time = 2000)     # WARNING: If you use QQVGA it may take seconds
-sensor.set_auto_gain(False) # 在进行颜色追踪时，必须关闭
-sensor.set_auto_whitebal(False) # 在进行颜色追踪时，必须关闭
+sensor.set_auto_gain(True) # 在进行颜色追踪时，必须关闭
+sensor.set_auto_whitebal(True) # 在进行颜色追踪时，必须关闭
 clock = time.clock()                # to process a frame sometimes.
 
 up_roi   = [5, 0, 70, 5]#上采样区0  [0,   0, 80, 15]
