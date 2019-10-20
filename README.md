@@ -1,22 +1,18 @@
----
-description: hello，这里是我的个人学习备忘录哟~
----
+### 这是2019年电赛B题无人机OpenMV的代码 These are the OpenMV codes written in nuedc 2019
 
-# 总述
+电赛官网：<https://www.nuedc-training.com.cn/>
 
-做笔记确实是一个十分好的一个习惯。
+其中的80%代码均为自己~~爆肝~~原创，真心不容易呜呜呜(╥╯^╰╥)。
+大部份功能均实现了。
 
-原来用过微软的OneNote，印象笔记，甚至直接是Word文档\(｡･ω･｡\)
+请在fork或者copy此代码之前，看看我写的相关介绍文档：
 
-后来才发现，都没有这样的一个在线笔记本方便。
+1. [2019电赛--OpenMV学习笔记](https://sublimerui.top/archives/f10b0e1a.html)
+2. [2019电赛--无人机题目OpenMV总结](https://sublimerui.top/archives/d508d500.html)
 
-## “新大陆”的发现
+>您可任意参考本代码，如需转载不必通知我~
 
-后来自己才发现，直接使用`Gitbook`会方便许多，省去了很多整理的过程。
+### 协议 Licenses
 
-自己也会慢慢把其他笔记搬移过来，形成一个整体哈哈\(〃'▽'〃\)
-
-就这样吧。**慢慢开始积累，终有一日会学有所成的。**
-
-
+遵循MIT开源协议条款。
 
