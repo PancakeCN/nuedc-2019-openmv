@@ -1,4 +1,4 @@
-## 这是2019年电赛B题无人机OpenMV的代码 These're the OpenMV codes written by microPython in 2019 NUEDC 
+## 这是2019年电赛B题无人机OpenMV的代码 <br> These're the OpenMV codes written by microPython in 2019 NUEDC 
 
 电赛官网：<https://www.nuedc-training.com.cn/>
 
